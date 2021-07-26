@@ -1,5 +1,5 @@
 # info3.5
-Please refer 
+Please refer to
 
 https://github.com/harman-dev/galsa-lib
 
